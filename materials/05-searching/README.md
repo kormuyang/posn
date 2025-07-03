@@ -6,16 +6,16 @@ The following table shows all lectures and the order in which each should be com
 
 | Order | Lecture | Solution |
 |:---:|:---:|:---:|
-| 1 | binary_search | [Sol1](lectures/binary_search.cpp) |
-| 2 | ternary_search | [Sol1](lectures/ternary_search.cpp) |
-| 3 | first_and_last_index | [Sol1](lectures/first_and_last_index-sol1.cpp), [Sol2](lectures/first_and_last_index-sol2.cpp) |
-| 4 | count_occurence | [Sol1](lectures/count_occurence-sol1.cpp), [Sol2](lectures/count_occurence-sol2.cpp) |
-| 5 | binary_search_in_stl | [Sol1](lectures/binary_search_in_cpp_stl.cpp) |
-| 6 | sqaure_root | [Sol1](lectures/sqaure_root.cpp) |
-| 7 | two_pointers_approach | [Sol1](lectures/two_pointers_approach.cpp) |
-| 8 | triplet_in_a_sorted_array | [Sol1](lectures/triplet_in_a_sorted_array.cpp) |
-| 9 | repeating_and_missing_numbers | [Sol1](lectures/repeating_and_missing_numbers-sol1.cpp), [Sol2](lectures/repeating_and_missing_numbers-sol2.cpp), [Sol3](lectures/repeating_and_missing_numbers-sol3.cpp) |
-| 10 | allocate_minimum_pages | [Sol1](lectures/allocate_minimum_pages.cpp) |
+| 1 | Binary Search | [Sol1](lectures/binary_search.cpp) |
+| 2 | Ternary Search | [Sol1](lectures/ternary_search.cpp) |
+| 3 | First and Last Index | [Sol1](lectures/first_and_last_index-sol1.cpp), [Sol2](lectures/first_and_last_index-sol2.cpp) |
+| 4 | Count Occurence | [Sol1](lectures/count_occurence-sol1.cpp), [Sol2](lectures/count_occurence-sol2.cpp) |
+| 5 | Binary Search in C++ STL | [Sol1](lectures/binary_search_in_cpp_stl.cpp) |
+| 6 | Sqaure Root | [Sol1](lectures/sqaure_root.cpp) |
+| 7 | Two Pointers Approach | [Sol1](lectures/two_pointers_approach.cpp) |
+| 8 | Triplet in a Sorted Array | [Sol1](lectures/triplet_in_a_sorted_array.cpp) |
+| 9 | Repeating and Missing Number | [Sol1](lectures/repeating_and_missing_numbers-sol1.cpp), [Sol2](lectures/repeating_and_missing_numbers-sol2.cpp), [Sol3](lectures/repeating_and_missing_numbers-sol3.cpp) |
+| 10 | Allocate Minimum Pages | [Sol1](lectures/allocate_minimum_pages.cpp) |
 
 ## Problems
 
