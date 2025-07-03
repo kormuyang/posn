@@ -16,6 +16,7 @@ The following table shows all lectures with the order in which each should be co
 | 8 | Triplet in a Sorted Array | [Sol1](lectures/triplet_in_a_sorted_array.cpp) |
 | 9 | Repeating and Missing Number | [Sol1](lectures/repeating_and_missing_numbers-sol1.cpp), [Sol2](lectures/repeating_and_missing_numbers-sol2.cpp), [Sol3](lectures/repeating_and_missing_numbers-sol3.cpp) |
 | 10 | Allocate Minimum Pages | [Sol1](lectures/allocate_minimum_pages.cpp) |
+<br>
 
 ## Problems
 

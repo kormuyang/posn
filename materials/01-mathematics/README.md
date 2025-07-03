@@ -7,6 +7,7 @@ The following table shows all lectures with the order in which each should be co
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Modulo Basic](lectures/modulo_basic.txt) | txt |
+<br>
 
 ## Problems
 

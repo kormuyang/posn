@@ -9,6 +9,7 @@ The following table shows all lectures with the order in which each should be co
 | 1 | [Bitwise Basic](lectures/bitwise_basic.md) | md |
 | 2 | [Bitwise Operators](lectures/bitwise_operators.txt) | pdf |
 | 3 | [Important Tactics](lectures/important_tactics.cpp) | cpp |
+<br>
 
 ## Problems
 

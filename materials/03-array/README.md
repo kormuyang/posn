@@ -12,6 +12,7 @@ The following table shows all lectures with the order in which each should be co
 | 4 | [Applications of Vectors](lectures/application_of_vectors.cpp) | cpp |
 | 5 | [Understanding Iterators](lectures/understanding_iterators.cpp) | cpp |
 | 6 | [OOP](lectures/oop.cpp) | cpp |
+<br>
 
 ## Problems
 

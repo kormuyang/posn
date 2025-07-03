@@ -13,6 +13,7 @@ The following table shows all lectures with the order in which each should be co
 | 5 | Merge Sort Introduction | cpp |
 | 6 | Merge Sort Code | cpp |
 | 7 | Merge Sort Analysis | cpp |
+<br>
 
 ## Problems
 
