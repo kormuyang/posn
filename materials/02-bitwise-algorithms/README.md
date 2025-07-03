@@ -3,7 +3,7 @@
 ## Lectures
 
 | Order | Lecture |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | 1 | [Bitwise Algorithms Basic](lectures/bitwise_algorithms_basic.md) |
 | 2 | [Bitwise Operators](lectures/bitwise_operators.txt) |
 | 3 | [Important Tactics](lectures/important_tactics.cpp) |
