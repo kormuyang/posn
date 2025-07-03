@@ -35,7 +35,5 @@ The following table shows all problems and solutions in the order in which each 
 | 2 | Power of Numbers | Sol1 |
 | 3 | Subset Sum Problem | Sol1|
 | 4 | Power Set using Recursion | Sol1|
-| 5 | Tower of Hanoi | Sol1 |
-| 6 | Josephus Problem | Sol1 |
-| 7 | Lucky Numbers | Sol1 |
-| 8 | Possible Words from Phone Digits | Sol1 |
+| 6 | Lucky Numbers | Sol1 |
+| 7 | Possible Words from Phone Digits | Sol1 |
