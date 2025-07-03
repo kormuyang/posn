@@ -2,6 +2,8 @@
 
 ## Problems
 
+The following table shows all problems, solutions, and the order in which each should be completed.
+
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
 | 1 | [mountain_and_valley](problems/mountain_and_valley.pdf) | [Sol1](solutions/mountain_and_valley.cpp) |

@@ -2,6 +2,8 @@
 
 ## Lectures
 
+The following table shows all lectures and the order in which each should be completed.
+
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Bitwise Basic](lectures/bitwise_basic.md) | md |
@@ -9,6 +11,8 @@
 | 3 | [Important Tactics](lectures/important_tactics.cpp) | cpp |
 
 ## Problems
+
+The following table shows all problems, solutions, and the order in which each should be completed.
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|

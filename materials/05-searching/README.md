@@ -1,6 +1,8 @@
 # Searching
 
-## Order of Lectures
+## Lectures
+
+The following table shows all lectures and the order in which each should be completed.
 
 | Order | Lecture | Solution |
 |:---:|:---:|:---:|
@@ -15,7 +17,9 @@
 | 9 | repeating_and_missing_numbers | [Sol1](lectures/repeating_and_missing_numbers-sol1.cpp), [Sol2](lectures/repeating_and_missing_numbers-sol2.cpp), [Sol3](lectures/repeating_and_missing_numbers-sol3.cpp) |
 | 10 | allocate_minimum_pages | [Sol1](lectures/allocate_minimum_pages.cpp) |
 
-## Order of Problems
+## Problems
+
+The following table shows all problems, solutions, and the order in which each should be completed.
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|

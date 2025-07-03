@@ -2,6 +2,8 @@
 
 ## Lectures
 
+The following table shows all lectures and the order in which each should be completed.
+
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Introduction to Arrays](lectures/introduction_to_arrays.cpp) | cpp |
@@ -12,6 +14,8 @@
 | 6 | [OOP](lectures/oop.cpp) | cpp |
 
 ## Problems
+
+The following table shows all problems, solutions, and the order in which each should be completed.
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|

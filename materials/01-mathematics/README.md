@@ -2,11 +2,15 @@
 
 ## Lectures
 
+The following table shows all lectures and the order in which each should be completed.
+
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Modulo Basic](lectures/modulo_basic.txt) | txt |
 
 ## Problems
+
+The following table shows all problems, solutions, and the order in which each should be completed.
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
