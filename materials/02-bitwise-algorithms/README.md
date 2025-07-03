@@ -8,8 +8,6 @@
 | 2 | [Bitwise Operators](lectures/bitwise_operators.txt) |
 | 3 | [Important Tactics](lectures/important_tactics.cpp) |
 
-<br>
-
 ## Problems
 
 | Order | Problem | Solution |
