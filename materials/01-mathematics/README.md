@@ -1,5 +1,11 @@
 # Mathematics
 
+## Lectures
+
+| Order | Lecture | Format |
+|:---:|:---:|:---:|
+| 1 | [Modulo Basic](lectures/modulo_basic.txt) | txt |
+
 ## Problems
 
 | Order | Problem | Solution |
