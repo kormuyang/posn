@@ -20,28 +20,36 @@ This is the most significant part because DSA is the main material taught in the
 
 ### Part: Data Structures
 
-1. [Array](materials/03-array/)
-2. Linked List
-3. Stack, Queue, & Deque
-4. Hashing (Hash Tables)
-5. Tree
-6. Binary Search Tree (BST)
-7. Heap (Priority Queue)
-8. Trie
-9. Graph
-10. Disjoint Set Union (DSU)
-11. Segment Tree & Fenwick Tree
+The following table shows all materials with the order in which each should be completed.
+
+| Order | Material | Click |
+|:---:|:---:|:---:|
+| 1 | Array | [03-array](materials/03-array/) |
+| 2 | Linked List | |
+| 3 | Stack, Queue, & Deque | |
+| 4 | Hashing (Hash Tables) | |
+| 5 | Tree | |
+| 6 | Binary Search Tree (BST) | |
+| 7 | Heap (Priority Queue) | |
+| 8 | Trie | |
+| 9 | Graph | |
+| 10 | Disjoint Set Union (DSU) | |
+| 11 | Segment Tree & Fenwick Tree | |
 <br>
 
 ### Part: Algorihms
 
-1. [Mathematics](materials/01-mathematics/)
-2. [Bitwise Algorithms](materials/02-bitwise-algorithms/)
-3. [Recursion](materials/04-recursion/)
-4. [Searching](materials/05-searching/)
-5. [Sorting](materials/06-sorting/)
-6. Hashing
-7. String Algorithms
-8. Greedy Algortihms
-9. Backtracking
-10. Dynamic Programming (DP)
+The following table shows all materials with the order in which each should be completed.
+
+| Order | Material | Click |
+|:---:|:---:|:---:|
+| 1 | Mathematics | [01-mathematics](materials/01-mathematics/) |
+| 2 | Bitwise Algorithms | [02-bitwise-algorithms](materials/02-bitwise-algorithms/) |
+| 3 | Recursion | [04-recursion](materials/04-recursion/) |
+| 4 | Searching | [05-searching](materials/05-searching/) |
+| 5 | Sorting | [06-sorting](materials/06-sorting/) |
+| 6 | Hashing | |
+| 7 | String Algorithms | |
+| 8 | Greedy Algortihms | |
+| 9 | Backtracking | |
+| 10 | Dynamic Programming (DP) | |
