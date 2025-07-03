@@ -2,7 +2,7 @@
 
 ## Problems
 
-The following table shows all problems, solutions, and the order in which each should be completed.
+The following table shows all problems and solutions with the order in which each should be completed.
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
