@@ -2,7 +2,7 @@
 
 ## Lectures
 
-The following table shows all lectures with the order in which each should be completed.
+The following table shows all lectures in the order in which each should be completed.
 
 | Order | Lecture | Solution |
 |:---:|:---:|:---:|
@@ -20,7 +20,7 @@ The following table shows all lectures with the order in which each should be co
 
 ## Problems
 
-The following table shows all problems and solutions with the order in which each should be completed.
+The following table shows all problems and solutions in the order in which each should be completed.
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
