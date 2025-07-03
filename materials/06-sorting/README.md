@@ -1,4 +1,4 @@
-# Searching
+# Sorting
 
 ## Lectures
 
@@ -7,9 +7,9 @@ The following table shows all lectures with the order in which each should be co
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Sort in C++ STL](lectures/sort_in_stl.cpp) | cpp |
-| 2 | [bubble_sort](lectures/bubble_sort.pdf) | cpp |
-| 3 | [selection_sort](lectures/selection_sort.pdf) | cpp |
-| 4 | [insertion_sort](lectures/insertion_sort.pdf) | cpp |
+| 2 | [Bubble Sort](lectures/bubble_sort.pdf) | cpp |
+| 3 | [Selction Sort](lectures/selection_sort.pdf) | cpp |
+| 4 | [Insertion Sort](lectures/insertion_sort.pdf) | cpp |
 | 5 | Merge Sort Introduction | cpp |
 | 6 | Merge Sort Code | cpp |
 | 7 | Merge Sort Analysis | cpp |

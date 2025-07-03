@@ -9,7 +9,7 @@ This is the rough roadmap showing what you need to do.
 
 1. Master the Language (C/C++)
 2. Understand Analysis of Algorithms
-3. Learn Data Structures and Algorithms (DSA)
+3. [Learn Data Structures and Algorithms (DSA)](#curriculum-dsa)
 4. Practice Problems
 5. Compete in Online Contests
 <br>
@@ -20,7 +20,7 @@ This is the most significant part because DSA is the main material taught in the
 
 ### Part: Data Structures
 
-1. Array
+1. [Array](materials/03-array/)
 2. Linked List
 3. Stack, Queue, & Deque
 4. Hashing (Hash Tables)
@@ -35,11 +35,11 @@ This is the most significant part because DSA is the main material taught in the
 
 ### Part: Algorihms
 
-1. Mathematics
-2. Bitwise Algorithms
-3. Recursion
-4. Searching
-5. Sorting
+1. [Mathematics](materials/01-mathematics/)
+2. [Bitwise Algorithms](materials/02-bitwise-algorithms/)
+3. [Recursion](materials/04-recursion/)
+4. [Searching](materials/05-searching/)
+5. [Sorting](materials/06-sorting/)
 6. Hashing
 7. String Algorithms
 8. Greedy Algortihms
