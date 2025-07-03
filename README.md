@@ -1,4 +1,4 @@
-# Computer POSN
+# POSN Computer
 
 Hi everyone! This repo was intentionally made as a guideline for competing in POSN Computer.
 <br><br>
