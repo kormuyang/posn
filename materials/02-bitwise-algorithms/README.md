@@ -1,12 +1,16 @@
 # Bitwise Algorithms
 
-## Order of Lectures
+## Lectures
 
-1. Bitwise Algorithms Basic
-2. Lecture
-3. Important Tactics
+| Order | Lecture |
+|:---:|:---:|:---:|
+| 1 | [Bitwise Algorithms Basic](lectures/bitwise_algorithms_basic.md) |
+| 2 | [Bitwise Operators](lectures/bitwise_operators.txt) |
+| 3 | [Important Tactics](lectures/important_tactics.cpp) |
 
-## Order of Problems
+<br>
+
+## Problems
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
