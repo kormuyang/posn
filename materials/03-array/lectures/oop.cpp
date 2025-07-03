@@ -3,17 +3,19 @@
 using namespace std;
 
 // student -> name, surname, age, student_id (attributes)
-class Student {
-    public:
-        string name, surname, id;
-        int age;
+class Student
+{
+public:
+    string name, surname, id;
+    int age;
 
-        int getScore() {
-            return score;
-        }
-    
-    private:
-        int score;
+    int getScore()
+    {
+        return score;
+    }
+
+private:
+    int score;
 };
 
 int main()
