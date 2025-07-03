@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    int a, b; cin >> a >> b;
+    int a, b;
+    cin >> a >> b;
     if (a > b)
     {
         int tmp = a;
@@ -13,7 +14,7 @@ int main()
     }
     for (int i = a; i > 1; i--)
     {
-        if (a % i == 0 and b % i ==0)
+        if (a % i == 0 and b % i == 0)
         {
             cout << i << '\n';
             return 0;

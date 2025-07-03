@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    int m, n; cin >> m >> n;
+    int m, n;
+    cin >> m >> n;
     int cnt = 0;
     for (int i = 1; i <= m; i++)
     {

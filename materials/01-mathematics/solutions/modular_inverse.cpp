@@ -16,7 +16,8 @@ bool check_coprime(int a, int b)
 
 int main()
 {
-    int a, m; cin >> a >> m;
+    int a, m;
+    cin >> a >> m;
 
     if (check_coprime(a, m) == false)
     {
