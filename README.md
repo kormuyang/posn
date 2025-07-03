@@ -1,7 +1,6 @@
 # POSN
 
 Hi everyone! This repo was intentionally made as a guideline for competing in POSN.
-<br>
 
 ## Roadmap
 

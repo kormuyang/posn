@@ -2,12 +2,11 @@
 
 ## Lectures
 
-| Order | Lecture |
-|:---:|:---:|
-| 1 | [Bitwise Basic](lectures/bitwise_basic.md) |
-| 2 | [Bitwise Operators](lectures/bitwise_operators.txt) |
-| 3 | [Important Tactics](lectures/important_tactics.cpp) |
-<br>
+| Order | Lecture | Type |
+|:---:|:---:|:---:|
+| 1 | [Bitwise Basic](lectures/bitwise_basic.md) | MD |
+| 2 | [Bitwise Operators](lectures/bitwise_operators.txt) | PDF |
+| 3 | [Important Tactics](lectures/important_tactics.cpp) | CPP |
 
 ## Problems
 
