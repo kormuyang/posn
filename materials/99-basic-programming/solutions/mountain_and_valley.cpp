@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    int n; cin >> n;
+    int n;
+    cin >> n;
     int l = 0, h = 0;
     int a[n];
     for (int i = 0; i < n; i++)
@@ -19,15 +20,19 @@ int main()
         {
             if (a[j] < i)
             {
-                for (int k = 0; k < 2 * abs(a[j]); k++) cout << " ";
+                for (int k = 0; k < 2 * abs(a[j]); k++)
+                    cout << " ";
             }
             else
             {
-                for (int k = 0; k < i - 1; k++) cout << " ";
+                for (int k = 0; k < i - 1; k++)
+                    cout << " ";
                 cout << "/";
-                for (int k = 0; k < 2 * (a[j] - i); k++) cout << " ";
+                for (int k = 0; k < 2 * (a[j] - i); k++)
+                    cout << " ";
                 cout << "\\";
-                for (int k = 0; k < i - 1; k++) cout << " ";
+                for (int k = 0; k < i - 1; k++)
+                    cout << " ";
             }
         }
         cout << '\n';
@@ -38,15 +43,19 @@ int main()
         {
             if (a[j] > i)
             {
-                for (int k = 0; k < 2 * abs(a[j]); k++) cout << " ";
+                for (int k = 0; k < 2 * abs(a[j]); k++)
+                    cout << " ";
             }
             else
             {
-                for (int k = 0; k < abs(i) - 1; k++) cout << " ";
+                for (int k = 0; k < abs(i) - 1; k++)
+                    cout << " ";
                 cout << "\\";
-                for (int k = 0; k < 2 * abs(a[j] - i); k++) cout << " ";
+                for (int k = 0; k < 2 * abs(a[j] - i); k++)
+                    cout << " ";
                 cout << "/";
-                for (int k = 0; k < abs(i) - 1; k++) cout << " ";
+                for (int k = 0; k < abs(i) - 1; k++)
+                    cout << " ";
             }
         }
         cout << '\n';
