@@ -14,10 +14,10 @@
 |:---:|:---:|:---:|
 | 1 | [binary_representation](problems/binary_representation.pdf) | [Sol1](solutions/binary_representation.cpp) |
 | 2 | [decimal_representation](problems/decimal_representation.pdf) | [Sol1](solutions/decimal_representation.cpp) |
-| 3 | [power_of_two](problems/power_of_two.pdf) | [Sol1](solutions/power_of_two_sol1.cpp), [Sol2](solutions/power_of_two_sol2.cpp) |
-| 4 | [count_set_bits](problems/count_set_bits.pdf) | [Sol1](solutions/count_set_bits_sol1.cpp), [Sol2](solutions/count_set_bits_sol2.cpp) |
+| 3 | [power_of_two](problems/power_of_two.pdf) | [Sol1](solutions/power_of_two-sol1.cpp), [Sol2](solutions/power_of_two-sol2.cpp) |
+| 4 | [count_set_bits](problems/count_set_bits.pdf) | [Sol1](solutions/count_set_bits-sol1.cpp), [Sol2](solutions/count_set_bits-sol2.cpp) |
 | 5 | [k-th_bit_check](problems/k-th_bit_check.pdf) | [Sol1](solutions/k-th_bit_check.cpp) |
-| 6 | [rightmost_different_bit](problems/rightmost_different_bit.pdf) | [Sol1](solutions/rightmost_different_bit_sol1.cpp), [Sol2](solutions/rightmost_different_bit_sol2.cpp) |
+| 6 | [rightmost_different_bit](problems/rightmost_different_bit.pdf) | [Sol1](solutions/rightmost_different_bit-sol1.cpp), [Sol2](solutions/rightmost_different_bit-sol2.cpp) |
 | 7 | [bit_difference](problems/bit_difference.pdf) | [Sol1](solutions/bit_difference.cpp) |
 | 8 | [longest_consecutive_one](problems/longest_consecutive_one.pdf) | [Sol1](solutions/longest_consecutive_one.cpp) |
 | 9 | [sparse_or_not](problems/sparse_or_not.pdf) | [Sol1](solutions/sparse_or_not.cpp) |

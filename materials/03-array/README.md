@@ -24,4 +24,4 @@
 | 7 | [remove_duplicates](problems/remove_duplicates.pdf) | [Sol1](solutions/remove_duplicates.cpp) |
 | 8 | [maximum_difference_with_order](problems/maximum_difference_with_order.pdf) | [Sol1](solutions/maximum_difference_with_order.cpp) |
 | 9 | [stock_buy_and_sell](problems/stock_buy_and_sell.pdf) | [Sol1](solutions/stock_buy_and_sell.cpp) |
-| 10 | [trapping_rain_water](problems/trapping_rain_water.pdf) | [Sol1](solutions/trapping_rain_water_sol1.cpp), [Sol2](solutions/trapping_rain_water_sol2.cpp) |
+| 10 | [trapping_rain_water](problems/trapping_rain_water.pdf) | [Sol1](solutions/trapping_rain_water-sol1.cpp), [Sol2](solutions/trapping_rain_water-sol2.cpp) |

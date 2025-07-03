@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Problem: Find the first and last occurrence of a target in a sorted array
+// Problem: Find the first and last index of a target in a sorted array
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
 
