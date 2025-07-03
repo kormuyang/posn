@@ -9,7 +9,6 @@
 - Merge Sort Introduction
 - Merge Sort Code
 - Merge Sort Analysis
-- ...
 
 ## Problem Order
 
@@ -18,4 +17,3 @@
 - Intersection of Two Sorted Arrays
 - Union of Two Sorted Arrays
 - Count Inversions
-- ...
