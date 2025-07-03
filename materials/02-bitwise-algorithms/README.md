@@ -7,7 +7,7 @@ The following table shows all lectures in the order in which each should be comp
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Bitwise Basic](lectures/bitwise_basic.md) | md |
-| 2 | [Bitwise Operators](lectures/bitwise_operators.txt) | pdf |
+| 2 | [Bitwise Operators](lectures/bitwise_operators.txt) | txt |
 | 3 | [Important Tactics](lectures/important_tactics.cpp) | cpp |
 <br>
 
