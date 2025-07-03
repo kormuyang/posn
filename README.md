@@ -20,7 +20,7 @@ This is the most significant part because DSA is the main material taught in the
 
 ### Part: Data Structures
 
-The following table shows all materials with the order in which each should be completed.
+The following table shows all the course materials for data structures, listed in the order they should be completed.
 
 | Order | Material | Click |
 |:---:|:---:|:---:|
@@ -39,7 +39,7 @@ The following table shows all materials with the order in which each should be c
 
 ### Part: Algorihms
 
-The following table shows all materials with the order in which each should be completed.
+The following table shows all the course materials for algorithms, listed in the order they should be completed.
 
 | Order | Material | Click |
 |:---:|:---:|:---:|
