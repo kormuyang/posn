@@ -1,6 +1,7 @@
 # POSN
 
 Hi everyone! This repo was intentionally made as a guideline for competing in POSN.
+<br>
 
 ## Roadmap
 
@@ -11,6 +12,7 @@ This is the rough roadmap showing what you need to do.
 3. Learn Data Structures and Algorithms (DSA)
 4. Practice Problems
 5. Compete in Online Contests
+<br>
 
 ## Curriculum: DSA
 
@@ -29,6 +31,7 @@ This is the most significant part because DSA is the main material taught in the
 9. Graph
 10. Disjoint Set Union (DSU)
 11. Segment Tree & Fenwick Tree
+<br>
 
 ### Part: Algorihms
 
