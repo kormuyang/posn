@@ -24,4 +24,11 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | []() | [Sol1]() |
+| 1 | [count_distinct_elements]() | [Sol1]() |
+| 2 | [frequencies_of_elements]() | [Sol1]() |
+| 3 | [intersection_of_unsorted_arrays]() | [Sol1]() |
+| 4 | [union_of_unsorted_arrays]() | [Sol1]() |
+| 5 | [pair_with_given_sum]() | [Sol1]() |
+| 6 | [subarray_with_zero_sum]() | [Sol1]() |
+| 7 | [subarray_with_given_sum]() | [Sol1]() |
+| 5 | [pair_with_given_sum]() | [Sol1]() |
