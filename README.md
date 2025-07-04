@@ -48,7 +48,7 @@ The following table shows all materials for algorithms in the order in which eac
 | 3 | Recursion | [04-recursion](materials/04-recursion/) |
 | 4 | Searching | [05-searching](materials/05-searching/) |
 | 5 | Sorting | [06-sorting](materials/06-sorting/) |
-| 6 | Hashing | |
+| 6 | Hashing | [07-hashing](materials/07-hashing/) |
 | 7 | String Algorithms | |
 | 8 | Greedy Algortihms | |
 | 9 | Backtracking | |
