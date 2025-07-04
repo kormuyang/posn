@@ -6,7 +6,7 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Link |
 |:---:|:---:|:---:|
-| 1 | Modulo Basic | [txt](lectures/modulo_basic.txt) |
+| 1 | Modulo Basic | [Note](lectures/modulo_basic.txt) |
 <br>
 
 ## Problems
