@@ -34,3 +34,6 @@ The following table shows all problems and solutions in the order in which each 
 | 3 | [intersection_of_two_sorted_arrays](problems/intersection_of_two_sorted_arrays.pdf) | [Sol1](solutions/intersection_of_two_sorted_arrays.cpp) |
 | 4 | [union_of_two_sorted_arrays](problems/union_of_two_sorted_arrays.pdf) | [Sol1](solutions/union_of_two_sorted_arrays.cpp) |
 | 5 | [count_inversions](problems/count_inversions.pdf) | [Sol1](solutions/count_inversions.cpp) |
+| 6 | [kth_smallest_element]() | [Sol1]() |
+| 7 | [minimum_difference]() | [Sol1]() |
+| 8 | [chocolate_distribution_problem]() | [Sol1]() |
