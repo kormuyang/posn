@@ -37,3 +37,7 @@ The following table shows all problems and solutions in the order in which each 
 | 6 | [kth_smallest_element]() | [Sol1]() |
 | 7 | [minimum_difference]() | [Sol1]() |
 | 8 | [chocolate_distribution_problem]() | [Sol1]() |
+| 9 | [merge_overlapping_interval]() | [Sol1]() |
+| 10 | [minimum_platforms]() | [Sol1]() |
+| 11 | [possible_triangles]() | [Sol1]() |
+| 12 | [sort_by_absolute_difference]() | [Sol1]() |
