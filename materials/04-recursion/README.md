@@ -4,25 +4,25 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Format |
+| Order | Lecture | Link |
 |:---:|:---:|:---:|
-| 1 | Recursion Introduction | cpp |
-| 2 | Print 1 to N using Recursion | cpp |
-| 3 | Print N to 1 using Recursion | cpp |
-| 4 | Power using Recursion | cpp |
-| 5 | Recursion Output Practice (Part 1) | cpp |
-| 6 | Recursion Output Practice (Part 2) | cpp |
-| 7 | Fibonacci using Recursion | cpp |
-| 8 | Tail Recursion | cpp |
-| 9 | Writing Base Cases | cpp |
-| 10 | Natural Number Sum using Recursion | cpp |
-| 11 | Palindrome Check using Recursion | cpp |
-| 12 | Sum of Digits using Recursion | cpp |
-| 13 | Rope Cutting Problem | cpp |
-| 14 | Generate Subsets | cpp |
-| 15 | Tower of Hanoi | cpp |
-| 16 | Josephus Problem | cpp |
-| 17 | Printing all Permutations | cpp |
+| 1 | Recursion Introduction | [-]() |
+| 2 | Print 1 to N using Recursion | [-]() |
+| 3 | Print N to 1 using Recursion | [-]() |
+| 4 | Power using Recursion | [-]() |
+| 5 | Recursion Output Practice (Part 1) | [-]() |
+| 6 | Recursion Output Practice (Part 2) | [-]() |
+| 7 | Fibonacci using Recursion | [-]() |
+| 8 | Tail Recursion | [-]() |
+| 9 | Writing Base Cases | [-]() |
+| 10 | Natural Number Sum using Recursion | [-]() |
+| 11 | Palindrome Check using Recursion | [-]() |
+| 12 | Sum of Digits using Recursion | [-]() |
+| 13 | Rope Cutting Problem | [-]() |
+| 14 | Generate Subsets | [-]() |
+| 15 | Tower of Hanoi | [-]() |
+| 16 | Josephus Problem | [-]() |
+| 17 | Printing all Permutations | [-]()
 <br>
 
 ## Problems
