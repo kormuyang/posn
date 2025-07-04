@@ -28,6 +28,8 @@ The following table shows all problems and solutions in the order in which each 
 | 2 | [frequencies_of_elements]() | [Sol1]() |
 | 3 | [intersection_of_unsorted_arrays]() | [Sol1]() |
 | 4 | [union_of_unsorted_arrays]() | [Sol1]() |
+| 5 | [sort_by_decresing_frequency]() | [Sol1]() |
+| 5 | [sort_according_to_an_array]() | [Sol1]() |
 | 5 | [pair_with_given_sum]() | [Sol1]() |
 | 6 | [subarray_with_zero_sum]() | [Sol1]() |
 | 7 | [subarray_with_given_sum]() | [Sol1]() |
