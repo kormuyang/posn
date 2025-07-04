@@ -6,23 +6,22 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Link |
 |:---:|:---:|:---:|
-| 1 | Recursion Introduction | [-]() |
+| 1 | Introduction to Recursion | [-]() |
 | 2 | Print 1 to N using Recursion | [-]() |
 | 3 | Print N to 1 using Recursion | [-]() |
 | 4 | Power using Recursion | [-]() |
-| 5 | Recursion Output Practice (Part 1) | [-]() |
-| 6 | Recursion Output Practice (Part 2) | [-]() |
-| 7 | Fibonacci using Recursion | [-]() |
-| 8 | Tail Recursion | [-]() |
-| 9 | Writing Base Cases | [-]() |
-| 10 | Natural Number Sum using Recursion | [-]() |
-| 11 | Palindrome Check using Recursion | [-]() |
-| 12 | Sum of Digits using Recursion | [-]() |
-| 13 | Rope Cutting Problem | [-]() |
-| 14 | Generate Subsets | [-]() |
-| 15 | Tower of Hanoi | [-]() |
-| 16 | Josephus Problem | [-]() |
-| 17 | Printing all Permutations | [-]()
+| 5 | Recursion Output Practice | [-]() |
+| 6 | Fibonacci using Recursion | [-]() |
+| 7 | Tail Recursion | [-]() |
+| 8 | Writing Base Cases | [-]() |
+| 9 | Natural Number Sum using Recursion | [-]() |
+| 10 | Palindrome Check using Recursion | [-]() |
+| 11 | Sum of Digits using Recursion | [-]() |
+| 12 | Rope Cutting Problem | [-]() |
+| 13 | Generate Subsets | [-]() |
+| 14 | Tower of Hanoi | [-]() |
+| 15 | Josephus Problem | [-]() |
+| 16 | Printing all Permutations | [-]()
 <br>
 
 ## Problems
