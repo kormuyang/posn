@@ -12,7 +12,10 @@ The following table shows all lectures in the order in which each should be comp
 | 4 | Collision Handling | [-]() |
 | 5 | Chaining | [-]() |
 | 6 | Open Addressing | [-]() |
-
+| 7 | Double Hashing | [-]() |
+| 8 | Chaining vs Open Addressing | [-]() |
+| 9 | unordered_set in C++ STL | [-]() |
+| 10 | unordered_map in C++ STL | [-]() |
 <br>
 
 ## Problems
