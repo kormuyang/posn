@@ -32,5 +32,6 @@ The following table shows all problems and solutions in the order in which each 
 | 6 | [subarray_with_zero_sum]() | [Sol1]() |
 | 7 | [subarray_with_given_sum]() | [Sol1]() |
 | 8 | [longest_subarray_with_given_sum]() | [Sol1]() |
-| 9 | [longest_span_with_same_sum]() | [Sol1]() |
+| 9 | [longest_common_span_with_same_sum]() | [Sol1]() |
 | 10 | [longest_consecutive_subsequence]() | [Sol1]() |
+| 11 | [distinct_elements_in_sliding_windows]() | [Sol1]() |
