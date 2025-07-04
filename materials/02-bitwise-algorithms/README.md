@@ -4,11 +4,11 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Format |
+| Order | Lecture | Link |
 |:---:|:---:|:---:|
-| 1 | [Bitwise Basic](lectures/bitwise_basic.md) | md |
-| 2 | [Bitwise Operators](lectures/bitwise_operators.txt) | txt |
-| 3 | [Important Tactics](lectures/important_tactics.cpp) | cpp |
+| 1 | Bitwise Basic | [Web](lectures/bitwise_basic.md) |
+| 2 | Bitwise Operators | [Note](lectures/bitwise_operators.txt) |
+| 3 | Important Tactics | [Code](lectures/important_tactics.cpp) |
 <br>
 
 ## Problems
