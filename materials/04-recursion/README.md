@@ -10,7 +10,7 @@ The following table shows all lectures in the order in which each should be comp
 | 2 | Print 1 to N using Recursion | [-]() |
 | 3 | Print N to 1 using Recursion | [-]() |
 | 4 | Power using Recursion | [-]() |
-| 5 | Recursion Output Practice | [Part-1](), [Part-2]() |
+| 5 | Recursion Output Practice | [Part1](), [Part2]() |
 | 6 | Fibonacci using Recursion | [-]() |
 | 7 | Tail Recursion | [-]() |
 | 8 | Writing Base Cases | [-]() |
