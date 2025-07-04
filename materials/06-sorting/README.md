@@ -6,10 +6,10 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
-| 1 | [Sort in C++ STL](lectures/sort_in_stl.cpp) | cpp |
-| 2 | [Bubble Sort](lectures/bubble_sort.pdf) | cpp |
-| 3 | [Selction Sort](lectures/selection_sort.pdf) | cpp |
-| 4 | [Insertion Sort](lectures/insertion_sort.pdf) | cpp |
+| 1 | Sort in C++ STL | [Code](lectures/sort_in_stl.cpp) |
+| 2 | Bubble Sort | [Code](lectures/bubble_sort.pdf) |
+| 3 | Selction Sort | [Code](lectures/selection_sort.pdf) |
+| 4 | Insertion Sort | [Code](lectures/insertion_sort.pdf) |
 | 5 | Stability in Sorting Algorithm | - |
 | 6 | Merge Sort (Introduction) | - |
 | 7 | Merge Sort (Code) | - |

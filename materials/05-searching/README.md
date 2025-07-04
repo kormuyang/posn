@@ -6,11 +6,11 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Solution |
 |:---:|:---:|:---:|
-| 1 | Binary Search | [Sol1](lectures/binary_search.cpp) |
-| 2 | Ternary Search | [Sol1](lectures/ternary_search.cpp) |
+| 1 | Binary Search | [Code](lectures/binary_search.cpp) |
+| 2 | Ternary Search | [Code](lectures/ternary_search.cpp) |
 | 3 | First and Last Index | [Sol1](lectures/first_and_last_index-sol1.cpp), [Sol2](lectures/first_and_last_index-sol2.cpp) |
 | 4 | Count Occurence | [Sol1](lectures/count_occurence-sol1.cpp), [Sol2](lectures/count_occurence-sol2.cpp) |
-| 5 | Binary Search in C++ STL | [Sol1](lectures/binary_search_in_cpp_stl.cpp) |
+| 5 | Binary Search in C++ STL | [Code](lectures/binary_search_in_cpp_stl.cpp) |
 | 6 | Sqaure Root | [Sol1](lectures/sqaure_root.cpp) |
 | 7 | Two Pointers Approach | [Sol1](lectures/two_pointers_approach.cpp) |
 | 8 | Triplet in a Sorted Array | [Sol1](lectures/triplet_in_a_sorted_array.cpp) |
