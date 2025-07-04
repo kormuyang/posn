@@ -14,10 +14,10 @@ The following table shows all lectures in the order in which each should be comp
 | 6 | Merge Sort Introduction | - |
 | 7 | Merge Sort Implementation | - |
 | 8 | Merge Sort Analysis | - |
-| 9 | Quick Sort Introduction | - |
-| 10 | Quick Sort using Naive Partition | - |
-| 11 | Lomuto Partition | - |
-| 12 | Hoare Partition | - |
+| 9 | Naive Partition | - |
+| 10 | Lomuto Partition | - |
+| 11 | Hoare Partition | - |
+| 12 | Quick Sort Introduction | - |
 | 13 | Quick Sort using Lomuto Partition | - |
 | 14 | Quick Sort using Hoare Partition | - |
 | 15 | Quick Sort Analysis | - |
