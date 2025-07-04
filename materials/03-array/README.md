@@ -4,13 +4,13 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Format |
+| Order | Lecture | Link |
 |:---:|:---:|:---:|
-| 1 | [Introduction to Arrays](lectures/introduction_to_arrays.cpp) | cpp |
-| 2 | [Basic of Pointers](lectures/basic_of_pointers.cpp) | cpp |
-| 3 | [Applications of Vectors](lectures/application_of_vectors.cpp) | cpp |
-| 4 | [Understanding Iterators](lectures/understanding_iterators.cpp) | cpp |
-| 5 | [OOP](lectures/oop.cpp) | cpp |
+| 1 | Introduction to Arrays | [Code](lectures/introduction_to_arrays.cpp) |
+| 2 | Basic of Pointers | [Code](lectures/basic_of_pointers.cpp) |
+| 3 | Applications of Vectors | [Code](lectures/application_of_vectors.cpp) |
+| 4 | Understanding Iterators | [Code](lectures/understanding_iterators.cpp) |
+| 5 | OOP | [Code](lectures/oop.cpp) |
 <br>
 
 ## Problems
