@@ -10,9 +10,10 @@ The following table shows all lectures in the order in which each should be comp
 | 2 | [Bubble Sort](lectures/bubble_sort.pdf) | cpp |
 | 3 | [Selction Sort](lectures/selection_sort.pdf) | cpp |
 | 4 | [Insertion Sort](lectures/insertion_sort.pdf) | cpp |
-| 5 | Merge Sort Introduction | cpp |
-| 6 | Merge Sort Code | cpp |
-| 7 | Merge Sort Analysis | cpp |
+| 5 | Stability in Sorting Algorithm | - |
+| 5 | Merge Sort (Introduction) | - |
+| 6 | Merge Sort (Code) | - |
+| 7 | Merge Sort (Analysis) | - |
 <br>
 
 ## Problems
