@@ -7,11 +7,10 @@ The following table shows all lectures in the order in which each should be comp
 | Order | Lecture | Format |
 |:---:|:---:|:---:|
 | 1 | [Introduction to Arrays](lectures/introduction_to_arrays.cpp) | cpp |
-| 2 | [Operations on Arrays](lectures/operations_on_arrays.cpp) | cpp |
-| 3 | [Basic of Pointers](lectures/basic_of_pointers.cpp) | cpp |
-| 4 | [Applications of Vectors](lectures/application_of_vectors.cpp) | cpp |
-| 5 | [Understanding Iterators](lectures/understanding_iterators.cpp) | cpp |
-| 6 | [OOP](lectures/oop.cpp) | cpp |
+| 2 | [Basic of Pointers](lectures/basic_of_pointers.cpp) | cpp |
+| 3 | [Applications of Vectors](lectures/application_of_vectors.cpp) | cpp |
+| 4 | [Understanding Iterators](lectures/understanding_iterators.cpp) | cpp |
+| 5 | [OOP](lectures/oop.cpp) | cpp |
 <br>
 
 ## Problems
