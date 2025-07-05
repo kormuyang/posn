@@ -4,8 +4,8 @@ using namespace std;
 
 // Description: binary search functions in STL
 // 1. binary_search -> return true if target is present in the array
-// 2. lower_bound -> return index of first element >= target
-// 3. upper_bound -> return index of first element > target
+// 2. lower_bound -> return iterator of the first element >= target
+// 3. upper_bound -> return iterator of the first element > target
 
 int main()
 {
