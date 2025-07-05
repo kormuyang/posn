@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Solution |
+| Order | Lecture | Link |
 |:---:|:---:|:---:|
 | 1 | Binary Search | [Code](lectures/binary_search.cpp) |
 | 2 | Ternary Search | [Code](lectures/ternary_search.cpp) |

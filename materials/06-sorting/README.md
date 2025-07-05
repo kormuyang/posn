@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Format |
+| Order | Lecture | Link |
 |:---:|:---:|:---:|
 | 1 | Sort in C++ STL | [Code](lectures/sort_in_stl.cpp) |
 | 2 | Bubble Sort | [Code](lectures/bubble_sort.cpp) |
