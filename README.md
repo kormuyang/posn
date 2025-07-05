@@ -49,7 +49,7 @@ The following table shows all materials for algorithms in the order in which eac
 | 4 | Searching | [05-searching](materials/05-searching/) |
 | 5 | Sorting | [06-sorting](materials/06-sorting/) |
 | 6 | Hashing | [07-hashing](materials/07-hashing/) |
-| 7 | String Algorithms | |
+| 7 | String Algorithms | [08-string-algorithms](materials/08-string-algorithms/) |
 | 8 | Greedy Algortihms | |
 | 9 | Backtracking | |
 | 10 | Dynamic Programming (DP) | |
