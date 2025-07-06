@@ -19,4 +19,3 @@ The following table shows all problems and solutions in the order in which each 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
 | 1 | [generate_binary_numbers]() | [Sol1]() |
-| 2 | [gas_station]() | [Sol1]() |
