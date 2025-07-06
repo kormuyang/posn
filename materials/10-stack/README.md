@@ -14,7 +14,7 @@ The following table shows all lectures in the order in which each should be comp
 | 1 | Previous Greater Element | [-]() |
 | 1 | Next Greater Element | [-]() |
 | 1 | Largest Rectangular Area in Histogram| [-]() |
-| 1 | Largest Rectangular Area with all 1s| [-]() |
+| 1 | Largest Rectangular with all 1s| [-]() |
 <br>
 
 ## Problems
