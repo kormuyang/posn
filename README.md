@@ -26,7 +26,7 @@ The following table shows all materials for data structures in the order in whic
 |:---:|:---:|:---:|
 | 1 | Array | [03-array](materials/03-array/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
-| 3 | Stack, Queue, & Deque | |
+| 3 | Stack, Queue, & Deque | [10-stack-queue-deque](materials/10-stack-queue-deque/) |
 | 4 | Tree | |
 | 5 | Binary Search Tree (BST) | |
 | 6 | Heap (Priority Queue) | |
