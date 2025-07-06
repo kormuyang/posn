@@ -18,7 +18,6 @@ The following table shows all lectures in the order in which each should be comp
 | 10 | Evaluation of Postfix| [-]() |
 | 11 | Infix to Prefix| [-]() |
 | 12 | Evaluation of Prefix| [-]() |
-
 <br>
 
 ## Problems
