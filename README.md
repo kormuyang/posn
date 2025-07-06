@@ -27,14 +27,14 @@ The following table shows all materials for data structures in the order in whic
 | 1 | Array | [03-array](materials/03-array/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
 | 3 | Stack | [10-stack](materials/10-stack/) |
-| 4 | Queue | [11-Queue](materials/11-queue/) |
-| 5 | Deque | [12-Deque](materials/12-deque/) |
-| 6 | Tree | [13-tree](materials/13-tree/) |
-| 7 | Binary Search Tree (BST) | |
-| 8 | Heap (Priority Queue) | |
-| 9 | Trie | |
-| 10 | Graph | |
-| 11 | Disjoint Set Union (DSU) | |
+| 4 | Queue | [11-queue](materials/11-queue/) |
+| 5 | Deque | [12-deque](materials/12-deque/) |
+| 6 | Graph | [13-graph](materials/13-graph/) |
+| 7 | Disjoint Set Union (DSU) | |
+| 8 | Tree | |
+| 9 | Binary Search Tree (BST) | |
+| 10 | Heap (Priority Queue) | |
+| 11 | Trie | |
 | 12 | Segment Tree | |
 | 13 | Fenwick Tree | |
 <br>
