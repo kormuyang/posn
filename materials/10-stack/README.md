@@ -13,8 +13,8 @@ The following table shows all lectures in the order in which each should be comp
 | 5 | Stock Span Problem | [-]() |
 | 6 | Previous Greater Element | [-]() |
 | 7 | Next Greater Element | [-]() |
-| 8 | Largest Rectangular Area in Histogram| [-]() |
-| 9 | Largest Rectangular with all 1s| [-]() |
+| 8 | Histogram Max Rectangular Area| [-]() |
+| 9 | Largest Rectangular with 1s| [-]() |
 | 10 | Infix, Prefix and Postfix Introduction| [-]() |
 | 11 | Infix to Postfix| [-]() |
 | 12 | Evaluation of Postfix| [-]() |
@@ -29,4 +29,4 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [-]() | [Sol1]() |
+| 1 | [The Celebrity Problem]() | [Sol1]() |
