@@ -7,14 +7,20 @@ The following table shows all lectures in the order in which each should be comp
 | Order | Lecture | Link |
 |:---:|:---:|:---:|
 | 1 | Stack Data Structure | [-]() |
-| 1 | Applications of Stack | [-]() |
-| 1 | Stack in C++ STL | [-]() |
-| 1 | Balanced Parenthesis | [-]() |
-| 1 | Stock Span Problem | [-]() |
-| 1 | Previous Greater Element | [-]() |
-| 1 | Next Greater Element | [-]() |
-| 1 | Largest Rectangular Area in Histogram| [-]() |
-| 1 | Largest Rectangular with all 1s| [-]() |
+| 2 | Applications of Stack | [-]() |
+| 3 | Stack in C++ STL | [-]() |
+| 4 | Balanced Parenthesis | [-]() |
+| 5 | Stock Span Problem | [-]() |
+| 6 | Previous Greater Element | [-]() |
+| 7 | Next Greater Element | [-]() |
+| 8 | Largest Rectangular Area in Histogram| [-]() |
+| 9 | Largest Rectangular with all 1s| [-]() |
+| 10 | Infix, Prefix and Postfix Introduction| [-]() |
+| 11 | Infix to Postfix| [-]() |
+| 12 | Evaluation of Postfix| [-]() |
+| 13 | Infix to Prefix| [-]() |
+| 14 | Evaluation of Prefix| [-]() |
+
 <br>
 
 ## Problems
