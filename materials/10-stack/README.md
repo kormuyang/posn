@@ -32,4 +32,3 @@ The following table shows all problems and solutions in the order in which each 
 | 4 | [next_greater_element]() | [Sol1]() |
 | 5 | [largest_rectangle_with_1s]() | [Sol1]() |
 | 6 | [the_celebrity_game]() | [Sol1]() |
-| 7 | [max_of_min_for_every_window_size]() | [Sol1]() |
