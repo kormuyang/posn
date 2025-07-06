@@ -10,8 +10,8 @@ The following table shows all lectures in the order in which each should be comp
 | 2 | Simple Linked List Implementation | [-]() |
 | 3 | Applications of Linked List | [-]() |
 | 4 | Types of Linked List | [-]() |
-| 5 | Singly Linked List Traversal | [-]() |
-| 6 | Singly Linked List Insertion | [-]() |
-| 7 | Singly Linked List Deletion | [-]() |
-| 8 | Singly Linked List Search | [-]() |
+| 5 | Traversal of Singly Linked List | [-]() |
+| 6 | Insertion in Singly Linked List | [-]() |
+| 7 | Deletion in Singly Linked List | [-]() |
+| 8 | Search in Singly Linked List | [-]() |
 <br>
