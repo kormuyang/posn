@@ -18,4 +18,5 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [print_neighbors]() | [Sol1]() |
+| 1 | [print_neighbors_from_matrix]() | [Sol1]() |
+| 2 | [print_neighbors_from_list]() | [Sol1]() |

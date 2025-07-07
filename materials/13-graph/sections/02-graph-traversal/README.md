@@ -12,6 +12,7 @@ The following table shows all lectures in the order in which each should be comp
 | 4 | Detech Cycle in Undirected Graph | [-]() |
 | 5 | Bipartite Graph Check | [-]() |
 | 6 | Graph Coloring (Chromatic Number) | [-]() |
+| 7 | Flood Fill Algorithm | [-]() |
 <br>
 
 ## Problems
@@ -20,9 +21,10 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [distance_of_nearest_cell_1s]() | [Sol1]() |
-| 2 | [rotten_oranges]() | [Sol1]() |
-| 3 | [step_by_knights]() | [Sol1]() |
-| 4 | [find_the_number_of_islands]() | [Sol1]() |
-| 5 | [find_whether_path_exist]() | [Sol1]() |
-| 6 | [x_total_shapes]() | [Sol1]() |
+| 1 | [find_whether_path_exist_easy]() | [Sol1]() |
+| 2 | [find_whether_path_exist_hard]() | [Sol1]() |
+| 3 | [x_total_shapes]() | [Sol1]() |
+| 4 | [rotten_oranges]() | [Sol1]() |
+| 5 | [find_the_number_of_islands]() | [Sol1]() |
+| 6 | [distance_of_nearest_cell_1s]() | [Sol1]() |
+| 7 | [step_by_knights]() | [Sol1]() |
