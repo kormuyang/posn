@@ -20,7 +20,7 @@ This is the most significant part because DSA is the main content taught in the 
 
 ### Part: Data Structures
 
-The following table shows all content for data structures in the order in which each should be completed.
+The following table shows all contents for data structures in the order in which each should be completed.
 
 | Order | Content | Material |
 |:---:|:---:|:---:|
@@ -41,7 +41,7 @@ The following table shows all content for data structures in the order in which 
 
 ### Part: Algorihms
 
-The following table shows all content for algorithms in the order in which each should be completed.
+The following table shows all contents for algorithms in the order in which each should be completed.
 
 | Order | Content | Material |
 |:---:|:---:|:---:|
