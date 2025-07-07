@@ -23,8 +23,8 @@ The following table shows all problems and solutions in the order in which each 
 |:---:|:---:|:---:|
 | 1 | [find_whether_path_exist_easy]() | [Sol1]() |
 | 2 | [find_whether_path_exist_hard]() | [Sol1]() |
-| 3 | [x_total_shapes]() | [Sol1]() |
-| 4 | [rotten_oranges]() | [Sol1]() |
+| 3 | [counting_rooms](https://cses.fi/problemset/task/1192) | [Sol1]() |
+| 4 | [distance_of_nearest_cell_1s]() | [Sol1]() |
 | 5 | [find_the_number_of_islands]() | [Sol1]() |
-| 6 | [distance_of_nearest_cell_1s]() | [Sol1]() |
+| 6 | [rotten_oranges]() | [Sol1]() |
 | 7 | [step_by_knights]() | [Sol1]() |
