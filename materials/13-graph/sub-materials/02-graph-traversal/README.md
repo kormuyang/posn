@@ -1,4 +1,4 @@
-# Introduction to Graph
+# Graph Traversal
 
 ## Lectures
 
