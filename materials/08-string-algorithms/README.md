@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Link |
+| Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | String in C++ STL | [-]() |
 | 2 | Check for Palindrome | [-]() |

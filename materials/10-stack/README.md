@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Link |
+| Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Stack Data Structure | [-]() |
 | 2 | Applications of Stack | [-]() |

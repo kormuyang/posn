@@ -16,13 +16,13 @@ This is the rough roadmap showing what you need to do.
 
 ## Curriculum: DSA
 
-This is the most significant part because DSA is the main material taught in the camp.
+This is the most significant part because DSA is the main content taught in the camp.
 
 ### Part: Data Structures
 
-The following table shows all materials for data structures in the order in which each should be completed.
+The following table shows all content for data structures in the order in which each should be completed.
 
-| Order | Material | Link |
+| Order | Content | Material |
 |:---:|:---:|:---:|
 | 1 | Array | [03-array](materials/03-array/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
@@ -41,9 +41,9 @@ The following table shows all materials for data structures in the order in whic
 
 ### Part: Algorihms
 
-The following table shows all materials for algorithms in the order in which each should be completed.
+The following table shows all content for algorithms in the order in which each should be completed.
 
-| Order | Material | Link |
+| Order | Content | Material |
 |:---:|:---:|:---:|
 | 1 | Mathematics | [01-mathematics](materials/01-mathematics/) |
 | 2 | Bitwise Algorithms | [02-bitwise-algorithms](materials/02-bitwise-algorithms/) |

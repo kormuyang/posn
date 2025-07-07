@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Link |
+| Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Introduction to Recursion | [-]() |
 | 2 | Print 1 to N using Recursion | [-]() |

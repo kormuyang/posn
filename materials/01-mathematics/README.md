@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Link |
+| Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Modulo Basic | [Note](lectures/modulo_basic.txt) |
 <br>

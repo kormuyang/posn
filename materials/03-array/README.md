@@ -4,7 +4,7 @@
 
 The following table shows all lectures in the order in which each should be completed.
 
-| Order | Lecture | Link |
+| Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Introduction to Arrays | [Code](lectures/introduction_to_arrays.cpp) |
 | 2 | Basic of Pointers | [Code](lectures/basic_of_pointers.cpp) |
