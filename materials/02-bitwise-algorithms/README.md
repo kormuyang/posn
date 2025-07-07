@@ -22,11 +22,9 @@ The following table shows all problems and solutions in the order in which each 
 | 3 | [power_of_two](problems/power_of_two.pdf) | [Sol1](solutions/power_of_two-sol1.cpp), [Sol2](solutions/power_of_two-sol2.cpp) |
 | 4 | [count_set_bits](problems/count_set_bits.pdf) | [Sol1](solutions/count_set_bits-sol1.cpp), [Sol2](solutions/count_set_bits-sol2.cpp) |
 | 5 | [k-th_bit_check](problems/k-th_bit_check.pdf) | [Sol1](solutions/k-th_bit_check.cpp) |
-| 6 | [rightmost_different_bit](problems/rightmost_different_bit.pdf) | [Sol1](solutions/rightmost_different_bit-sol1.cpp), [Sol2](solutions/rightmost_different_bit-sol2.cpp) |
-| 7 | [bit_difference](problems/bit_difference.pdf) | [Sol1](solutions/bit_difference.cpp) |
-| 8 | [longest_consecutive_one](problems/longest_consecutive_one.pdf) | [Sol1](solutions/longest_consecutive_one.cpp) |
-| 9 | [sparse_or_not](problems/sparse_or_not.pdf) | [Sol1](solutions/sparse_or_not.cpp) |
-| 10 | [one_odd_occurring](problems/one_odd_occurring.pdf) | [Sol1](solutions/one_odd_occurring.cpp) |
-| 11 | [two_odd_occurring](problems/two_odd_occurring.pdf) | [Sol1](solutions/two_odd_occurring.cpp) |
-| 12 | [maximum_and_value](problems/maximum_and_value.pdf) | [Sol1](solutions/maximum_and_value.cpp) |
-| 13 | [create_power_set](problems/create_power_set.pdf) | [Sol1](solutions/create_power_set.cpp) |
+| 6 | [bit_difference](problems/bit_difference.pdf) | [Sol1](solutions/bit_difference.cpp) |
+| 7 | [longest_consecutive_one](problems/longest_consecutive_one.pdf) | [Sol1](solutions/longest_consecutive_one.cpp) |
+| 8 | [one_odd_occurring](problems/one_odd_occurring.pdf) | [Sol1](solutions/one_odd_occurring.cpp) |
+| 9 | [two_odd_occurring](problems/two_odd_occurring.pdf) | [Sol1](solutions/two_odd_occurring.cpp) |
+| 10 | [maximum_and_value](problems/maximum_and_value.pdf) | [Sol1](solutions/maximum_and_value.cpp) |
+| 11 | [create_power_set](problems/create_power_set.pdf) | [Sol1](solutions/create_power_set.cpp) |
