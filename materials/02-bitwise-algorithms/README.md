@@ -26,7 +26,7 @@ The following table shows all problems and solutions in the order in which each 
 | 7 | [bit_difference](problems/bit_difference.pdf) | [Sol1](solutions/bit_difference.cpp) |
 | 8 | [longest_consecutive_one](problems/longest_consecutive_one.pdf) | [Sol1](solutions/longest_consecutive_one.cpp) |
 | 9 | [sparse_or_not](problems/sparse_or_not.pdf) | [Sol1](solutions/sparse_or_not.cpp) |
-| 10 | [one_odd_occuring](problems/one_odd_occuring.pdf) | [Sol1](solutions/one_odd_occuring.cpp) |
-| 11 | [two_odd_occuring](problems/two_odd_occuring.pdf) | [Sol1](solutions/two_odd_occuring.cpp) |
+| 10 | [one_odd_occurring](problems/one_odd_occurring.pdf) | [Sol1](solutions/one_odd_occurring.cpp) |
+| 11 | [two_odd_occurring](problems/two_odd_occurring.pdf) | [Sol1](solutions/two_odd_occurring.cpp) |
 | 12 | [maximum_and_value](problems/maximum_and_value.pdf) | [Sol1](solutions/maximum_and_value.cpp) |
 | 13 | [create_power_set](problems/create_power_set.pdf) | [Sol1](solutions/create_power_set.cpp) |
