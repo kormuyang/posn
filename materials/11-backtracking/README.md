@@ -21,3 +21,5 @@ The following table shows all problems and solutions in the order in which each 
 | 1 | [combination_sum]() | [Sol1]() |
 | 2 | [rat_maze_with_multiple_jumps]() | [Sol1]() |
 | 3 | [largest_number_in_k_swaps]() | [Sol1]() |
+| 4 | [unique_subsets]() | [Sol1]() |
+| 5 | [black_and_white]() | [Sol1]() |

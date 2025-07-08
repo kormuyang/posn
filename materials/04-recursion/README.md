@@ -30,7 +30,8 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | Power of Numbers | [Sol1]() |
-| 2 | Subset Sum Problem | [Sol1]() |
-| 3 | Lucky Numbers | [Sol1]() |
-| 4 | Possible Words from Phone Digits | [Sol1]() |
+| 1 | [power_of_numbers]() | [Sol1]() |
+| 2 | [subset_sum_problem]() | [Sol1]() |
+| 3 | [create_power_set]() | [Sol1]() |
+| 4 | [lucky_numbers]() | [Sol1]() |
+| 5 | [possible_words_from_phone_digits]() | [Sol1]() |
