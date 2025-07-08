@@ -25,3 +25,4 @@ The following table shows all problems and solutions in the order in which each 
 | 2 | [directed_graph_cycle]() | [Sol1]() |
 | 3 | [minimum_swaps_to_sort]() | [Sol1]() |
 | 4 | [mother_vertex]() | [Sol1]() |
+| 5 | [CSES - Longest Flight Route](https://cses.fi/problemset/task/1680) | [Sol1]() |
