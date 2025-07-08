@@ -19,4 +19,10 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [-]() | [Sol1]() |
+| 1 | [CSES - Shortest Routes I](https://cses.fi/problemset/task/1671) | [Sol1]() |
+| 2 | [CSES - Shortest Routes II](https://cses.fi/problemset/task/1672) | [Sol1]() |
+| 2 | [CSES - High Score](https://cses.fi/problemset/task/1673) | [Sol1]() |
+| 3 | [minimum_cost_path]() | [Sol1]() |
+| 4 | [CSES - Labyrinth](https://cses.fi/problemset/task/1193) | [Sol1]() |
+| 5 | [CSES - Monster](https://cses.fi/problemset/task/1194) | [Sol1]() |
+| 5 | [CSES - Flight Discount](https://cses.fi/problemset/task/1195) | [Sol1]() |
