@@ -31,8 +31,9 @@ The following table shows all contents for data structures in the order in which
 | 5 | Binary Search Tree | [13-binary-search-tree](materials/13-binary-search-tree/) |
 | 6 | Heap | [14-heap](materials/14-heap/) |
 | 7 | Graph | [15-graph](materials/15-graph/) |
-| 8 | Trie | |
-| 9 | Segment Tree & Fenwick Tree | |
+| 8 | Trie | [18-trie](materials/18-trie/) |
+| 9 | Fenwick Tree | [19-fenwick-tree](materials/19-fenwick-tree/) |
+| 10 | Segment Tree | [20-segment-tree](materials/20-segment-tree/) |
 <br>
 
 ### Part: Algorithms
@@ -49,5 +50,5 @@ The following table shows all contents for algorithms in the order in which each
 | 6 | Hashing | [07-hashing](materials/07-hashing/) |
 | 7 | String Algorithms | [08-string-algorithms](materials/08-string-algorithms/) |
 | 8 | Backtracking | [11-backtracking](materials/11-backtracking/) |
-| 9 | Greedy Algortihms | |
-| 10 | Dynamic Programming (DP) | |
+| 9 | Greedy Algortihms | [16-greedy-algorithms](materials/16-greedy-algorithms/) |
+| 10 | Dynamic Programming (DP) | [17-dynamic-algorithms](materials/17-dynamic-programming/) |
