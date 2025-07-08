@@ -37,7 +37,7 @@ The following table shows all contents for data structures in the order in which
 | 13 | Fenwick Tree | |
 <br>
 
-### Part: Algorihms
+### Part: Algorithms
 
 The following table shows all contents for algorithms in the order in which each should be completed.
 
