@@ -6,7 +6,12 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Material |
 |:---:|:---:|:---:|
-| 1 | - | [-]() |
+| 1 | Recap on Directed Graph | [-]() |
+| 2 | Detect Cycle in Directed Graph (DFS) | [-]() |
+| 3 | Introduction to Topological Sorting | [-]() |
+| 4 | Topological Sorting (DFS) | [-]() |
+| 5 | Topological Sorting (Khan's BFS) | [-]() |
+| 6 | Detect Cycle in Directed Graph (Khan's BFS) | [-]() |
 <br>
 
 ## Problems
