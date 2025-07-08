@@ -27,14 +27,9 @@ The following table shows all contents for data structures in the order in which
 | 1 | Array, Pair, & Tuple | [03-array-pair-tuple](materials/03-array-pair-tuple/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
 | 3 | Stack, Queue, & Deque | [10-stack-queue-deque](materials/10-stack-queue-deque/) |
-| 6 | Graph | [12-graph](materials/12-graph/) |
-| 7 | Disjoint Set Union (DSU) | |
-| 8 | Tree | |
-| 9 | Binary Search Tree (BST) | |
-| 10 | Heap (Priority Queue) | |
-| 11 | Trie | |
-| 12 | Segment Tree | |
-| 13 | Fenwick Tree | |
+| 4 | Graph | [12-graph](materials/12-graph/) |
+| 5 | Tree | |
+| 6 | Segment Tree & Fenwick Tree | |
 <br>
 
 ### Part: Algorithms
