@@ -7,7 +7,6 @@ The following table shows all lectures in the order in which each should be comp
 | Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Recap on Directed Graph | [-]() |
-| 2 | Print Paths | [-]() |
 | 2 | Detect Cycle in Directed Graph (DFS) | [-]() |
 | 3 | Introduction to Topological Sorting | [-]() |
 | 4 | Topological Sorting (DFS) | [-]() |
@@ -27,5 +26,5 @@ The following table shows all problems and solutions in the order in which each 
 | 3 | [minimum_swaps_to_sort]() | [Sol1]() |
 | 4 | [mother_vertex]() | [Sol1]() |
 | 5 | [CSES - Course Schedule](https://cses.fi/problemset/task/1679) | [Sol1]() |
-| 5 | [CSES - Longest Flight Route](https://cses.fi/problemset/task/1680) | [Sol1]() |
-| 6 | [CSES - Round Trip II](https://cses.fi/problemset/task/1678) | [Sol1]() |
+| 6 | [CSES - Longest Flight Route](https://cses.fi/problemset/task/1680) | [Sol1]() |
+| 7 | [CSES - Round Trip II](https://cses.fi/problemset/task/1678) | [Sol1]() |

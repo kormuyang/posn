@@ -28,4 +28,4 @@ The following table shows all problems and solutions in the order in which each 
 | 5 | [rotten_oranges]() | [Sol1]() |
 | 6 | [step_by_knights]() | [Sol1]() |
 | 7 | [area_of_largest_region_of_1s]() | [Sol1]() |
-| 6 | [CSES - Round Trip](https://cses.fi/problemset/task/1669) | [Sol1]() |
+| 8 | [CSES - Round Trip](https://cses.fi/problemset/task/1669) | [Sol1]() |
