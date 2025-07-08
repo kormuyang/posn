@@ -30,9 +30,7 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | Reverse Number | [Sol1]() |
-| 2 | Power of Numbers | [Sol1]() |
-| 3 | Subset Sum Problem | [Sol1]() |
-| 4 | Power Set using Recursion | [Sol1]() |
-| 6 | Lucky Numbers | [Sol1]() |
-| 7 | Possible Words from Phone Digits | [Sol1]() |
+| 1 | Power of Numbers | [Sol1]() |
+| 2 | Subset Sum Problem | [Sol1]() |
+| 3 | Lucky Numbers | [Sol1]() |
+| 4 | Possible Words from Phone Digits | [Sol1]() |

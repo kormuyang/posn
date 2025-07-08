@@ -18,4 +18,6 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [-]() | [Sol1]() |
+| 1 | [combination_sum]() | [Sol1]() |
+| 2 | [rat_maze_with_multiple_jumps]() | [Sol1]() |
+| 3 | [largest_number_in_k_swaps]() | [Sol1]() |
