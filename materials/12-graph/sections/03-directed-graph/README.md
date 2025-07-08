@@ -12,6 +12,7 @@ The following table shows all lectures in the order in which each should be comp
 | 4 | Topological Sorting (DFS) | [-]() |
 | 5 | Topological Sorting (Khan's BFS) | [-]() |
 | 6 | Detect Cycle in Directed Graph (Khan's BFS) | [-]() |
+| 7 | Shortest Path in DAG | [-]() |
 <br>
 
 ## Problems
