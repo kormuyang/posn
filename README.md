@@ -27,7 +27,7 @@ The following table shows all contents for data structures in the order in which
 | 1 | Array, Pair, & Tuple | [03-array-pair-tuple](materials/03-array-pair-tuple/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
 | 3 | Stack, Queue, & Deque | [10-stack-queue-deque](materials/10-stack-queue-deque/) |
-| 6 | Graph | [14-graph](materials/14-graph/) |
+| 6 | Graph | [12-graph](materials/12-graph/) |
 | 7 | Disjoint Set Union (DSU) | |
 | 8 | Tree | |
 | 9 | Binary Search Tree (BST) | |
@@ -50,6 +50,6 @@ The following table shows all contents for algorithms in the order in which each
 | 5 | Sorting | [06-sorting](materials/06-sorting/) |
 | 6 | Hashing | [07-hashing](materials/07-hashing/) |
 | 7 | String Algorithms | [08-string-algorithms](materials/08-string-algorithms/) |
-| 8 | Backtracking | [13-backtracking](materials/13-backtracking/) |
+| 8 | Backtracking | [11-backtracking](materials/11-backtracking/) |
 | 9 | Greedy Algortihms | |
 | 10 | Dynamic Programming (DP) | |
