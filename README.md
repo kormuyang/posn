@@ -27,10 +27,12 @@ The following table shows all contents for data structures in the order in which
 | 1 | Array, Pair, & Tuple | [03-array-pair-tuple](materials/03-array-pair-tuple/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
 | 3 | Stack, Queue, & Deque | [10-stack-queue-deque](materials/10-stack-queue-deque/) |
-| 4 | Tree | |
-| 5 | Graph | [12-graph](materials/12-graph/) |
-| 6 | Trie | |
-| 7 | Segment Tree & Fenwick Tree | |
+| 4 | Tree | [12-tree](materials/12-tree/) |
+| 5 | Binary Search Tree | [13-binary-search-tree](materials/13-binary-search-tree/) |
+| 6 | Heap | [14-heap](materials/14-heap/) |
+| 7 | Graph | [15-graph](materials/15-graph/) |
+| 8 | Trie | |
+| 9 | Segment Tree & Fenwick Tree | |
 <br>
 
 ### Part: Algorithms
