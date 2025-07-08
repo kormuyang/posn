@@ -7,10 +7,10 @@ The following table shows all lectures in the order in which each should be comp
 | Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Introduction to Arrays | [Code](lectures/introduction_to_arrays.cpp) |
-| 2 | Basic of Pointers | [Code](lectures/basic_of_pointers.cpp) |
-| 3 | Applications of Vectors | [Code](lectures/application_of_vectors.cpp) |
+| 2 | Understanding Pointers | [Code](lectures/understanding_pointers.cpp) |
+| 3 | Introduction to Vectors | [Code](lectures/introduction_to_vectors.cpp) |
 | 4 | Understanding Iterators | [Code](lectures/understanding_iterators.cpp) |
-| 5 | OOP | [Code](lectures/oop.cpp) |
+| 5 | Object Oriented Programming | [Code](lectures/object_oriented_programming.cpp) |
 <br>
 
 ## Problems
