@@ -21,6 +21,7 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [directed_graph_cycle]() | [Sol1]() |
-| 2 | [minimum_swaps_to_sort]() | [Sol1]() |
-| 3 | [mother_vertex]() | [Sol1]() |
+| 1 | [count_possible_paths]() | [Sol1]() |
+| 2 | [directed_graph_cycle]() | [Sol1]() |
+| 3 | [minimum_swaps_to_sort]() | [Sol1]() |
+| 4 | [mother_vertex]() | [Sol1]() |
