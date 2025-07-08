@@ -24,7 +24,7 @@ The following table shows all contents for data structures in the order in which
 
 | Order | Content | Material |
 |:---:|:---:|:---:|
-| 1 | Array | [03-array](materials/03-array/) |
+| 1 | Array, Pair, & Tuple | [03-array-pair-tuple](materials/03-array-pair-tuple/) |
 | 2 | Linked List | [09-linked-list](materials/09-linked-list/) |
 | 3 | Stack, Queue, & Deque | [10-stack-queue-deque](materials/10-stack-queue-deque/) |
 | 6 | Graph | [14-graph](materials/14-graph/) |
