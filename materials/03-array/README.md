@@ -11,6 +11,7 @@ The following table shows all lectures in the order in which each should be comp
 | 3 | Introduction to Vectors | [Code](lectures/introduction_to_vectors.cpp) |
 | 4 | Understanding Iterators | [Code](lectures/understanding_iterators.cpp) |
 | 5 | Object Oriented Programming | [Code](lectures/object_oriented_programming.cpp) |
+| 6 | Pair and Tuple | [-]() |
 <br>
 
 ## Problems
