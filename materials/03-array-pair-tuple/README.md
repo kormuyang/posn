@@ -1,4 +1,4 @@
-# Array
+# Array, Pair, & Tuple
 
 ## Lectures
 
@@ -6,12 +6,13 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Material |
 |:---:|:---:|:---:|
-| 1 | Introduction to Array | [Code](lectures/introduction_to_array.cpp) |
+| 1 | Recap on Array | [Code](lectures/recap_on_array.cpp) |
 | 2 | Understanding Pointer | [Code](lectures/understanding_pointer.cpp) |
 | 3 | Introduction to Vector | [Code](lectures/introduction_to_vector.cpp) |
 | 4 | Understanding Iterator | [Code](lectures/understanding_iterator.cpp) |
 | 5 | Object Oriented Programming | [Code](lectures/object_oriented_programming.cpp) |
-| 6 | Introduction to Pair and Tuple | [-]() |
+| 6 | Introduction to Pair | [-]() |
+| 7 | Introduction to Tuple | [-]() |
 <br>
 
 ## Problems
