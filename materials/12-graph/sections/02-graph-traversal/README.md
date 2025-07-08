@@ -28,3 +28,4 @@ The following table shows all problems and solutions in the order in which each 
 | 5 | [find_the_number_of_islands]() | [Sol1]() |
 | 6 | [rotten_oranges]() | [Sol1]() |
 | 7 | [step_by_knights]() | [Sol1]() |
+| 8 | [area_of_the_largest_region_of_1s]() | [Sol1]() |
