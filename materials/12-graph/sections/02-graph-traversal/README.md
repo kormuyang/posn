@@ -8,11 +8,12 @@ The following table shows all lectures in the order in which each should be comp
 |:---:|:---:|:---:|
 | 1 | Breadth First Search (BFS) | [-]() |
 | 2 | Depth First Search (DFS) | [-]() |
-| 3 | Shortest Path in Unweighted Graph | [-]() |
-| 4 | Detech Cycle in Undirected Graph | [-]() |
-| 5 | Bipartite Graph Check | [-]() |
-| 6 | Graph Coloring (Chromatic Number) | [-]() |
-| 7 | Flood Fill Algorithm | [-]() |
+| 3 | Print Possible Paths | [-]() |
+| 4 | Shortest Path in Unweighted Graph | [-]() |
+| 5 | Detech Cycle in Undirected Graph | [-]() |
+| 6 | Bipartite Graph Check | [-]() |
+| 7 | Graph Coloring (Chromatic Number) | [-]() |
+| 8 | Flood Fill Algorithm | [-]() |
 <br>
 
 ## Problems
