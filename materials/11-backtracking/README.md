@@ -6,7 +6,10 @@ The following table shows all lectures in the order in which each should be comp
 
 | Order | Lecture | Material |
 |:---:|:---:|:---:|
-| 1 | - | [-]() |
+| 1 | Concepts of Backtracking | [-]() |
+| 2 | Rat in a Maze | [-]() |
+| 3 | N Queen Problem | [-]() |
+| 4 | Sudoku Problem | [-]() |
 <br>
 
 ## Problems
