@@ -14,6 +14,8 @@ The following table shows all lectures in the order in which each should be comp
 | 6 | Deletion in BST | [-]() |
 | 7 | Self Balacing in BST | [-]() |
 | 8 | Applications of BST | [-]() |
+| 9 | set in C++ STL | [-]() |
+| 10 | map in C++ STL | [-]() |
 <br>
 
 ## Problems
