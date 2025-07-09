@@ -10,7 +10,7 @@ The following table shows all lectures in the order in which each should be comp
 | 2 | Understanding Pointer | [Code](lectures/understanding_pointer.cpp) |
 | 3 | Introduction to Vector | [Code](lectures/introduction_to_vector.cpp) |
 | 4 | Understanding Iterator | [Code](lectures/understanding_iterator.cpp) |
-| 5 | Object Oriented Programming | [Code](lectures/object_oriented_programming.cpp) |
+| 5 | Classes and Objects in C++ | [Code](lectures/classes_and_objects.cpp) |
 | 6 | Introduction to Pair | [-]() |
 | 7 | Introduction to Tuple | [-]() |
 <br>
