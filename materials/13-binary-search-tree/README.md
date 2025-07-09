@@ -24,4 +24,4 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [-]() | [Sol1]() |
+| 1 | [CSES - Sum of Two Values](https://cses.fi/problemset/task/1640) | [Sol1]() |
