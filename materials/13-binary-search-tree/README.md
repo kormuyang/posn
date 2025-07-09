@@ -7,7 +7,7 @@ The following table shows all lectures in the order in which each should be comp
 | Order | Lecture | Material |
 |:---:|:---:|:---:|
 | 1 | Recap of Balanced Binary Tree | [-]() |
-| 2 | Background of BST | [-]() |
+| 2 | Background of Binary Search Tree | [-]() |
 | 3 | Introduction to Binary Search Tree | [-]() |
 <br>
 
