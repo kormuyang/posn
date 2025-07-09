@@ -27,5 +27,9 @@ The following table shows all problems and solutions in the order in which each 
 
 | Order | Problem | Solution |
 |:---:|:---:|:---:|
-| 1 | [k_most_occurring_elements]() | [Sol1]() |
-| 2 | [CSES - Room Allocation](https://cses.fi/problemset/task/1164) | [Sol1]() |
+| 1 | [kth_smallest_element]() | [Sol1]() |
+| 2 | [k_most_occurring_elements]() | [Sol1]() |
+| 3 | [minimum_cost_of_ropes]() | [Sol1]() |
+| 4 | [rearrange_characters]() | [Sol1]() |
+| 5 | [kth_largest_element_in_a_stream]() | [Sol1]() |
+| 6 | [CSES - Room Allocation](https://cses.fi/problemset/task/1164) | [Sol1]() |
