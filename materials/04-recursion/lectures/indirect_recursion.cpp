@@ -2,8 +2,8 @@
 
 using namespace std;
 
-// "Indirect Recursion" is a function calls itself indirectly.
-// Don't run this code! it contains an infinite loop.
+// Indirect Recursion is a function which calls itself indirectly
+// Don't run this code! it contains an infinite loop
 
 void funcOne()
 {

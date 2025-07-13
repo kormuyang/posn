@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Find the output of this code.
+// Task: find the output of this code
 
 int func(int n, int i)
 {
