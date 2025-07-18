@@ -15,7 +15,7 @@ void funcOne()
 void funcTwo()
 {
     cout << "Function Two!\n";
-    funcOne
+    funcOne();
     return;
 }
 
